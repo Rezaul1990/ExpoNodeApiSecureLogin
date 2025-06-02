@@ -8,7 +8,7 @@ const DashboardScreen = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        {role === 'admin' ? 'Welcome, Admin 👑' : 'Welcome, Member 🙌'}
+        {role === 'admin' ? 'Welcome, Admin Rezaul 👑' : 'Welcome, Member tingtong 🙌'}
       </Text>
     </View>
   );
